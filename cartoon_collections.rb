@@ -3,8 +3,8 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
   
-  array.each do |array|
-    puts "Hello {array}!"
+  array.each do |arrays|
+    puts "Hello {arrays}!"
   end
 end
 
